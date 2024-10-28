@@ -8,6 +8,6 @@ I'm Bartoszeq, a passionate developer and tech enthusiast exploring the vast wor
 🌱 When I'm not coding, you can find me playing video games. I believe in a balanced life that encompasses both work and play. 🎵⚽
 
 📫 Let's connect! Feel free to reach out for discussions, collaborations, or simply to say hi. I'm excited to connect with fellow developers and enthusiasts. 😊
-- 🔭 I’m currently working on **StaffBot**
-- 🌱 I’m currently learning **Go**
+- 🔭 I’m currently working on **Galaxy Tournaments**
+- 🌱 I’m currently learning **Go, C#**
 - 📫 How to reach me: **Discord - bartoszeq**
