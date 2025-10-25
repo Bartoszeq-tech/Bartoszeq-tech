@@ -13,11 +13,12 @@
 - 📫 **Email:** [kontakt@bartoszeq.dev](mailto:kontakt@bartoszeq.dev)
 - 🌐 **Discord:** bartoszeq
 
+### 📊 GitHub Stats
 <div align="center">
   
 <p align="center">
-<img align="center" src="https://github-readme-stats-one-bay-73.vercel.app/api?username=Bartoszeq-tech&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_rank=true" alt="Bartoszeq-tech" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bartoszeq-tech&theme=github_dark_dimmed&date_format=n%2Fj%5B%2FY%5D" alt="Bartoszeq-tech" />
+<img align="center" src="https://github-readme-stats-one-bay-73.vercel.app/api?username=Bartoszeq-tech&show_icons=true&locale=en&layout=compact&theme=github_dark_dimmed&hide_rank=true&hide_border=true" alt="Bartoszeq-tech" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bartoszeq-tech&theme=github_dark_dimmed&date_format=n%2Fj%5B%2FY%5D&layout=compact&hide_border=true" alt="Bartoszeq-tech" />
 </p>
 
 ---
